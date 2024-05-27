@@ -1,7 +1,7 @@
 # aarohiz.github.io
 
-##Education
+## Education
 BS in Cognitive Science with a specialization in Machine Learning and Neural Computation
 
-##Projects
+## Projects
 Behavioral Interview Chatbot
