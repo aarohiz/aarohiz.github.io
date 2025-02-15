@@ -1,1 +1,0 @@
-# aarohiz.github.io
